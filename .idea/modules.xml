@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpotifyClone-master/musicAll-master/musicAll.iml" filepath="$PROJECT_DIR$/SpotifyClone-master/musicAll-master/musicAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spotifyCloneCCT-main.iml" filepath="$PROJECT_DIR$/.idea/spotifyCloneCCT-main.iml" />
+    </modules>
+  </component>
+</project>
